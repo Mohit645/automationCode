@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="15616" started-at="2020-02-26T01:58:35 GMT" finished-at="2020-02-26T01:58:51 GMT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="15616" started-at="2020-02-26T01:58:35 GMT" finished-at="2020-02-26T01:58:51 GMT">
+      <class name="expediaChallenge.ExpediaTest">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:expediaChallenge.ExpediaTest@4d41cee]" name="beforeClass" is-config="true" duration-ms="20236" started-at="2020-02-26T01:58:15 GMT" finished-at="2020-02-26T01:58:35 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:expediaChallenge.ExpediaTest@4d41cee]" name="beforeTest" is-config="true" duration-ms="9524" started-at="2020-02-26T01:58:35 GMT" finished-at="2020-02-26T01:58:45 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="doesPriceMatch()[pri:1, instance:expediaChallenge.ExpediaTest@4d41cee]" name="doesPriceMatch" duration-ms="3705" started-at="2020-02-26T01:58:45 GMT" finished-at="2020-02-26T01:58:48 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doesPriceMatch -->
+        <test-method status="PASS" signature="doesNotPriceMatch()[pri:2, instance:expediaChallenge.ExpediaTest@4d41cee]" name="doesNotPriceMatch" duration-ms="568" started-at="2020-02-26T01:58:48 GMT" finished-at="2020-02-26T01:58:49 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doesNotPriceMatch -->
+        <test-method status="PASS" signature="visiblityOfAirLines()[pri:3, instance:expediaChallenge.ExpediaTest@4d41cee]" name="visiblityOfAirLines" duration-ms="597" started-at="2020-02-26T01:58:49 GMT" finished-at="2020-02-26T01:58:50 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- visiblityOfAirLines -->
+        <test-method status="PASS" signature="footerNoteText()[pri:4, instance:expediaChallenge.ExpediaTest@4d41cee]" name="footerNoteText" duration-ms="214" started-at="2020-02-26T01:58:50 GMT" finished-at="2020-02-26T01:58:50 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- footerNoteText -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:expediaChallenge.ExpediaTest@4d41cee]" name="afterTest" is-config="true" duration-ms="899" started-at="2020-02-26T01:58:50 GMT" finished-at="2020-02-26T01:58:51 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- expediaChallenge.ExpediaTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
